@@ -64497,7 +64497,7 @@ s=s[3]
 return Math.sqrt(r*r+q*q+p*p+s*s)}}
 A.Di.prototype={
 I(a){var s=null,r=A.a([new A.qL(new A.pk(new A.Wh(),s,s,s,A.au9(),A.at3(),t.XU),s,s,s,s,t.Id)],t.Ds)
-return A.anW(new A.tr(B.Ax,new A.Wi(),"Aneeb Baig",$.aie(),!1,s),r)}}
+return A.anW(new A.tr(B.Ax,new A.Wi()," Baig",$.aie(),!1,s),r)}}
 A.Wh.prototype={
 $1(a){var s=new A.iJ(A.a([new A.kz("Home",B.zZ,B.A3),new A.kz("About Me",B.w7,B.A6),new A.kz("Skills",B.Ht,B.A5),new A.kz("Projects",B.FC,B.A7),new A.kz("Contact",B.z3,B.A2)],t.Tg),$.aS())
 s.a=0
